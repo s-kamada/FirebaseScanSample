@@ -23,7 +23,7 @@ class FirebaseScanFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
         val dashboardViewModel =
-            ViewModelProvider(this)[DashboardViewModel::class.java]
+            ViewModelProvider(this)[FirebaseScanViewModel::class.java]
 
         _binding = FragmentFirebaseScanBinding.inflate(inflater, container, false)
         val root: View = binding.root

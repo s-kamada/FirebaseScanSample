@@ -23,7 +23,7 @@ class VanillaScanFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
         val notificationsViewModel =
-            ViewModelProvider(this)[NotificationsViewModel::class.java]
+            ViewModelProvider(this)[VanillaScanViewModel::class.java]
 
         _binding = FragmentVanillaScanBinding.inflate(inflater, container, false)
         val root: View = binding.root
