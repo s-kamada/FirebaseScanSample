@@ -1,4 +1,4 @@
-package com.example.firebasescansamples.ui.notifications
+package com.example.firebasescansamples.ui.vanillascan
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
