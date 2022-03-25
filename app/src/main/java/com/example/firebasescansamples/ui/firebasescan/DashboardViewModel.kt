@@ -1,4 +1,4 @@
-package com.example.firebasescansamples.ui.dashboard
+package com.example.firebasescansamples.ui.firebasescan
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
