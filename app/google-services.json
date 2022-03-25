@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406346268848",
+    "project_id": "scansampleapp",
+    "storage_bucket": "scansampleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406346268848:android:a26850e6449e5956b63b75",
+        "android_client_info": {
+          "package_name": "com.example.firebasescansamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406346268848-8033f8u8sqbg9e9mak4mpft21enojd28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp06cvq0ycZ1iN2KkoRLKdY9bIr4w-y_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406346268848-8033f8u8sqbg9e9mak4mpft21enojd28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
