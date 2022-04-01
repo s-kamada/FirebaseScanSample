@@ -9,7 +9,6 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.firebasescansamples.CameraPermission
-import com.example.firebasescansamples.CodeScanner
 import com.example.firebasescansamples.databinding.FragmentFirebaseScanBinding
 import com.google.mlkit.vision.barcode.common.Barcode
 

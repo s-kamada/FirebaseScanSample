@@ -1,4 +1,4 @@
-package com.example.firebasescansamples
+package com.example.firebasescansamples.ui.firebasescan
 
 import androidx.activity.ComponentActivity
 import androidx.camera.core.CameraSelector
