@@ -7,13 +7,13 @@
         android:title="@string/title_home" />
 
     <item
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/navigation_firebasescan"
         android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_firebase" />
+        android:title="@string/title_firebasescan" />
 
     <item
-        android:id="@+id/navigation_notifications"
+        android:id="@+id/navigation_journyappsscan"
         android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/title_vanilla" />
+        android:title="@string/title_journyappsscan" />
 
 </menu>

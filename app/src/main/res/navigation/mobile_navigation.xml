@@ -12,14 +12,14 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/navigation_firebasescan"
         android:name="com.example.firebasescansamples.ui.firebasescan.FirebaseScanFragment"
-        android:label="@string/title_firebase"
+        android:label="@string/title_firebasescan"
         tools:layout="@layout/fragment_firebase_scan" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
+        android:id="@+id/navigation_journyappsscan"
         android:name="com.example.firebasescansamples.ui.vanillascan.VanillaScanFragment"
-        android:label="@string/title_vanilla"
+        android:label="@string/title_journyappsscan"
         tools:layout="@layout/fragment_vanilla_scan" />
 </navigation>
