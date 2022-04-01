@@ -14,12 +14,12 @@
     <fragment
         android:id="@+id/navigation_dashboard"
         android:name="com.example.firebasescansamples.ui.firebasescan.FirebaseScanFragment"
-        android:label="@string/title_dashboard"
+        android:label="@string/title_firebase"
         tools:layout="@layout/fragment_firebase_scan" />
 
     <fragment
         android:id="@+id/navigation_notifications"
         android:name="com.example.firebasescansamples.ui.vanillascan.VanillaScanFragment"
-        android:label="@string/title_notifications"
+        android:label="@string/title_vanilla"
         tools:layout="@layout/fragment_vanilla_scan" />
 </navigation>
