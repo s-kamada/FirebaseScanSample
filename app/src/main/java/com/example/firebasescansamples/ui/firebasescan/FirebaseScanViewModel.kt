@@ -10,4 +10,8 @@ class FirebaseScanViewModel : ViewModel() {
         value = "This is dashboard Fragment"
     }
     val text: LiveData<String> = _text
+
+    fun updateText(text: String) {
+        _text.value = text
+    }
 }
